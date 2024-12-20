@@ -1,6 +1,8 @@
 ---
 title: About BSides Groningen
 type: about
+width: full
+toc: false
 ---
 
 # What is BSides?
