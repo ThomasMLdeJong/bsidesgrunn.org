@@ -22,7 +22,8 @@ menu:
       pageRef: /
       weight: 1
     - name: CFP
-      url: https://sessionize.com/bsidesgrunn
+      pageRef: /cfp
+      # url: https://sessionize.com/bsidesgrunn
       weight: 2
     - name: About
       pageRef: /about
