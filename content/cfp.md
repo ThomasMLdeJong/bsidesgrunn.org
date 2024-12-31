@@ -36,3 +36,13 @@ BSides Groningen is an exciting, community-driven cybersecurity conference takin
 - If you would like to have someone come to the conference with you, please just send us their information so we can register them.
 
 {{% /steps %}}
+
+
+## CFP Review Board
+
+The CFP Review Board will carefully evaluate all presentation submissions and curate the final program to ensure a diverse and engaging lineup of talks.
+
+{{< cards >}}
+  {{< card link="https://www.linkedin.com/in/roy-v-leeuwen/" image="images/team/roy.jpg" method="Fill" options="600x600" title="Roy van Leeuwen" subtitle="Senior Lecturer at Hanze" >}}
+  {{< card link="https://www.linkedin.com/in/arnoud-warmerdam-a12b7b5/" image="images/team/arnoud.jpeg" method="Fill" options="600x600" title="Arnoud Warmerdam" subtitle="Founder of Warpnet" >}}
+{{< /cards >}}
