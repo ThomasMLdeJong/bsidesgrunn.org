@@ -19,6 +19,7 @@ The BSides Groningen team will handle all event logistics and coordination to de
 
 {{< cards >}}
   {{< card link="https://www.linkedin.com/in/roaldnefs/" image="images/team/roald.jpg" method="Fill" options="600x600" title="Roald Nefs" subtitle="Chief Technology Officer at Warpnet" tag="Organizer" >}}
+  {{< card link="https://www.linkedin.com/in/wendy-sikkema-b876b9141/" image="images/team/wendy.jpeg" method="Fill" options="600x600" title="Wendy Sikkema" subtitle="Security Consultant at Nestor Security" tag="Organizer" >}}
   {{< card link="https://www.linkedin.com/in/sarah-dezijn-114a27161/" image="images/team/sarah.jpg" method="Fill" options="600x600" title="Sarah Dezijn" subtitle="Content Marketeer at Enshore" tag="Organizer" >}}
   {{< card link="https://www.linkedin.com/in/birgit-dijk-9a440b1a2/" image="images/team/birgit.jpeg" method="Fill" options="600x600" title="Birgit Dijk" subtitle="Office Manager at Warpnet" tag="Organizer" >}}
   {{< card link="https://www.linkedin.com/in/roy-v-leeuwen/" image="images/team/roy.jpg" method="Fill" options="600x600" title="Roy van Leeuwen" subtitle="Senior Lecturer at Hanze" tag="CFP Review Board" >}}
