@@ -32,6 +32,21 @@ menu:
       weight: 4
       params:
         type: search
+    - name: LinkedIn
+      weight: 5
+      url: "https://www.linkedin.com/company/bsidesgrunn/"
+      params:
+        icon: linkedin
+    - name: Mastodon
+      weight: 6
+      url: "https://infosec.exchange/@bsidesgrunn"
+      params:
+        icon: mastodon
+    - name: GitHub
+      weight: 7
+      url: "https://github.com/bsidesgrunn"
+      params:
+        icon: github
 
 params:
   navbar:
